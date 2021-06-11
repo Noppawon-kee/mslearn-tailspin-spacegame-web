@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-clean-css": "^4.2.0",
@@ -7,4 +8,23 @@
     "node-sass": "^3.4.2",
     "rimraf": "2.6.1"
   }
+=======
+  "dependencies": {
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "node-sass": "^6.0.0"
+  },
+  "name": "noppawon.kee",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+>>>>>>> 4bfe28886a90c0d2e51a9262edea60ee63e2ddcc
 }
